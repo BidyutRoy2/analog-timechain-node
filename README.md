@@ -25,7 +25,7 @@ https://github.com/dxzenith/analog-timechain-node/assets/161211651/3e1cc4b9-5494
 - Open Termius / Putty
 - Paste this below mentioned command
 ```bash
-wget https://github.com/BidyutRoy2/analog-timechain-node/main/analog.sh && chmod +x analog.sh && ./analog.sh
+wget https://raw.githubusercontent.com/BidyutRoy2/analog-timechain-node/main/analog.sh && chmod +x analog.sh && ./analog.sh
 ```
 - You can check analog node logs by using this command :
 ```bash
