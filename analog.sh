@@ -96,5 +96,5 @@ echo
 
 echo -e "${BLUE}Script Execution Completed !!${NC}"
 echo
-echo -e "${BOLD}${CYAN}Follow @ZunXBT on X for more guide like this ${NC}"
+echo -e "${BOLD}${CYAN} Join https://t.me/hiddengemnews for more guide like this ${NC}"
 echo
